@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Угадай число!</string>
+    <string name="behind">Маловато!</string>
+    <string name="ahead">Многовато!</string>
+    <string name="hit">Вы правы!</string>
+    <string name="input_value">Введите значение:</string>
+    <string name="play_more">Сыграть ещё раз!</string>
+    <string name="try_to_guess">Угадать!</string>
+    <string name="error">Ошибка ввода!</string>
+    <string name="go_easy_mode">Простой режим</string>
+    <string name="go_hard_mode">Сложный режим</string>
+
+</resources>
